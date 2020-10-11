@@ -4,7 +4,7 @@
 
 ---
 
-En el marco de la aprobación por parte del Comité de Asignación de Fondos (CAF) (Sesión - N°04/2020, 18/02/2020) del Programa de Formación para la Competitividad - PFC "FORMACIÓN PARA CINCO PERFILES DE ESPECIALIDADES DE LA INDUSTRIA TIC", el presente repositorio incorpora el material de aprendizaje utilizado por parte de la Entidad Experta u Organismo Capacitador "Universidad del Desarrollo" de dicho programa al postulante, seleccionado y posteriormente becario Bastián Aballay Leiva, además de la documentación de código, ejercicios y evaluaciones llevadas a cabo por este último, de manera personal, o en conjunto con participantes del Grupo Curso.
+En el marco de la aprobación por parte del Comité de Asignación de Fondos (CAF) (Sesión - N°04/2020, 18/02/2020) del Programa de Formación para la Competitividad - PFC "FORMACIÓN PARA CINCO PERFILES DE ESPECIALIDADES DE LA INDUSTRIA TIC", el presente repositorio incorpora el material de aprendizaje utilizado por parte de la Entidad Experta u Organismo Capacitador para llevar a cabo la formación del postulante, seleccionado y posteriormente becario Bastián Aballay Leiva, además de la documentación de código, ejercicios y evaluaciones llevadas a cabo por este último, de manera personal, o en conjunto con participantes del Grupo Curso.
 
 El objetivo del programa  es generar nuevo capital humano especializado, ofreciendo becas consistentes en cofinanciamiento de cursos de especialización TIC, en particular en Ciencia de Datos.
 
